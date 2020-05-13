@@ -1,2 +1,2 @@
 # automatin-aws-with-python
-aws py
+automate aws py
